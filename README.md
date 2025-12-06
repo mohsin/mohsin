@@ -40,7 +40,7 @@ I'm a versatile fullstack engineer with expertise in web, mobile, voice applicat
 ### Languages & Frameworks
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://www.svgrepo.com/show/452088/php.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="Kotlin" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.github.com/devicons/devicon/master/icons/javascript/javascript-original.svg?sanitize=true" alt="JavaScript" width="40" height="40"/>
@@ -65,7 +65,7 @@ I'm a versatile fullstack engineer with expertise in web, mobile, voice applicat
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android" width="40" height="40"/>
   <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://vuejs.org/images/logo.png" alt="Vue.js" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/OctoberCMS.png" alt="OctoberCMS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/octobercms.svg" alt="OctoberCMS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" alt="Kubernetes" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
