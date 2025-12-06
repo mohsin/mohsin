@@ -49,6 +49,12 @@ I'm a versatile fullstack engineer with expertise in web, mobile, voice applicat
   <img src="https://raw.github.com/devicons/devicon/master/icons/java/java-original.svg?sanitize=true" alt="Java" width="40" height="40"/>
   <img src="https://raw.github.com/devicons/devicon/master/icons/c/c-original.svg?sanitize=true" alt="C" width="40" height="40"/>
   <img src="https://raw.github.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg?sanitize=true" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 </p>
 
 ### Mobile Development Expertise
@@ -73,6 +79,14 @@ I'm a versatile fullstack engineer with expertise in web, mobile, voice applicat
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Amazon_Alexa_App_Logo.png" alt="Alexa" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/2/2c/Google_Actions_Logo.png" alt="Google Assistant" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/primevue.svg" alt="PrimeVue" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jetpackcompose.svg" alt="Jetpack Compose" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="iOS" width="40" height="40"/>
 </p>
 
 ## Infrastructure & Cloud Expertise
